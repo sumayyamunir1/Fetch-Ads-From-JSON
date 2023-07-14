@@ -3,7 +3,7 @@
 FetchAds is an Android application that fetches ads from a remote JSON API and allows users to mark ads as their favorites. It demonstrates the usage of Retrofit, Gson, RecyclerView, and SharedPreferences in an Android project.
 
 ## Features
-takeown /F . /R /D Y
+
 - Fetches ads from a remote JSON API
 - Displays ads in a RecyclerView
 - Allows users to mark ads as their favorites
